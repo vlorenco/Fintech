@@ -1,0 +1,22 @@
+html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background-color: #062140;
+      color: white;
+    }
+
+    .nav-link {
+      color: #e2e2e2 !important;
+    }
+
+    .nav-link.active,
+    .nav-link:hover {
+      color: white !important;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 100px 0;
+    }
